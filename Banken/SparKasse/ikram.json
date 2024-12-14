@@ -1,0 +1,12 @@
+[
+  {
+    "CLASSNAME": "IncomingTransfer",
+    "INSTANCE": {
+      "sender": "houdaifa",
+      "recipient": "ikram",
+      "date": "01.02.2019",
+      "amount": 230.0,
+      "description": "just a girl"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "CLASSNAME": "OutgoingTransfer",
+    "INSTANCE": {
+      "sender": "Houdaifa",
+      "recipient": "Amr",
+      "date": "12.03.2022",
+      "amount": 300.0,
+      "description": "Transfer"
+    }
+  }
+]
